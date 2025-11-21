@@ -1,0 +1,19 @@
+{
+  "name": "whale-watcher-insider-scoop",
+  "version": "1.0.0",
+  "description": "Whale Watcher: Insider Scoop – a crypto and stock whale-activity tracker with alerts and charts.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "crypto",
+    "stocks",
+    "whales",
+    "trading",
+    "alerts",
+    "market-intelligence"
+  ],
+  "author": "Paparaysdonuts",
+  "license": "MIT"
+}
