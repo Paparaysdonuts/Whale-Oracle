@@ -1,6 +1,6 @@
-# Whale-Watcher-Insider-Scoop
-Whale Watcher: Insider Scoop tracks real-time whale moves in crypto and stocks, sending instant alerts when big money buys, sells, or accumulates. Spot early pumps, avoid dumps, and trade with the same insight as insiders. Follow smart money, not hype — get the edge before the crowd.
-🐋 Whale Watcher: INSIDER SCOOP
+# Whale-Oracle
+Whale Oracle tracks real-time whale moves in crypto and stocks, sending instant alerts when big money buys, sells, or accumulates. Spot early pumps, avoid dumps, and trade with the same insight as insiders. Follow smart money, not hype — get the edge before the crowd.
+🐋 Whale Oracle - Where knowledge becomes wealth
 
 Trade Like You Can See the Future — Because Now You Can.
 
@@ -13,7 +13,7 @@ You follow money.
 
 ⸻
 
-🔥 What Whale Watcher Does
+🔥 What Whale Oracle does;
 	•	Tracks whale-sized buys/sells across crypto and stocks
 	•	Identifies early accumulation zones before a pump
 	•	Detects distribution patterns before a dump
@@ -26,10 +26,10 @@ This isn’t speculation — it’s data intelligence.
 
 ⸻
 
-🚀 Why Whale Watcher is Different
+🚀 Why Whale Oracle is Different
 
 Most apps show price after it moves.
-Whale Watcher shows you the moves that cause the move.
+Whale Oracle shows you the moves that cause the move.
 
 Other platforms:
 ❌ Slow alerts
@@ -38,7 +38,7 @@ Other platforms:
 ❌ No smart-money context
 ❌ Cluttered, outdated UI
 
-Whale Watcher:
+Whal
 ✔ Instant whale alerts
 ✔ Pre-exchange token scanning
 ✔ Smart-money accumulation tracking
@@ -47,7 +47,7 @@ Whale Watcher:
 ✔ Intuitive, fast UI
 ✔ Designed for beginners and pros
 
-Whale Watcher is built for people who want an unfair edge — legally.
+Whale Oracle is built for people who want an unfair edge — legally.
 
 ⸻
 
